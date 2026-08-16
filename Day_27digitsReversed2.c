@@ -29,7 +29,7 @@ int main(void)
     }
     printf("\n");
 
-    sayHelloBuhOS(14);
+    sayHelloBuhOS(27);
     return 0;
 }
 
