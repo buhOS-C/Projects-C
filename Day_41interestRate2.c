@@ -1,6 +1,6 @@
 /************************************************************************
-* Name: interestRate2.c                                                  *
-* Purpose: Interest rate 2                                                *
+* Name: interestRate2.c                                                 *
+* Purpose: Interest rate 2                                              *
 * Author: buhOS                                                         *
 * Date: 03/09/2026                                                      *
 *************************************************************************/
